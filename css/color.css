@@ -1,0 +1,211 @@
+/*
+      ============================================================
+           Default Color Start
+      ============================================================
+*/
+.th-cl,
+.btn1:hover,
+.blog-tag a,
+.btn-2:hover,
+textarea:focus,
+.woo-footer a:hover,
+.blog-meta a:hover,
+.woo-product .price,
+.contact-text span,
+.list-style li:hover,
+.blog:hover .title a,
+.event:hover .title a,
+.product_meta a:hover, 
+.bs-copyright a:hover,
+.contact-text a:hover,
+.list-style li a:hover,
+input[type="text"]:focus,
+.news-list:hover .title a,
+input[type="email"]:focus,
+.comment-thumb .reply-link,
+.blog-grid:hover .title a,
+.woocommerce-summary .price,
+.woo-product:hover .title ,
+.bs-team:hover .text .title a,
+.comment-thumb:hover .title a,
+.tags_wrap .post-meta li span,
+.blog-list .text .blog-meta a,
+.news-list .blog-meta li span,
+.project-thumb-2:hover .title a,
+.bs-feature-thumb:hover .title a,
+.latest-post-thumb:hover .title a,
+.reply-form .bs-input textarea:focus, 
+.Project-gallery-thumb:hover .title a,
+input[type="text"]:focus .search_icon,
+.navigation-outer .bs-social li a:hover,
+.arrow-style2 .slick-arrow:hover::before,
+.reply-form .bs-input input[type="text"]:focus, 
+.reply-form .bs-input input[type="email"]:focus,
+.simple-gallery-page .simple-gallery-nav li a:hover,
+.simple-gallery-page .simple-gallery-nav a.active
+{
+    color: #ff3636
+}
+/*
+      ============================================================
+           Default Background Color Start
+      ============================================================
+*/
+.th-bg,
+.bs-date,
+.tags a:hover,
+.fileUpload:hover,
+.bs-social li:hover a,
+.bs-team figure::before,
+.widget_archive li:hover,
+.news-list .title::before,
+.founder-thumb:hover .title,
+.widget_categories li:hover,
+.counter-thumb span::before,
+.simple-gallery-thumb figure,
+.simple-gallery-thumb a:hover,
+.simple-gallery-nav li .active,
+.sidebar .widget-title::before,
+.progress-wrap .progress_single,
+.navigation ul li ul li:hover > a,
+.bs-pagination .page-numbers:hover,
+.bs-pagination .page-numbers.current,
+.widget-social .bs-social li a:hover,
+.project-social .bs-social li a:hover,
+.feature-thumb-slider .slick-arrow:hover,
+.navigation-outer .dl-menuwrapper li a:hover,
+.input-stepper button:hover,
+.woocommerce-tabs .nav-tabs > li.active > a,
+.woocommerce-tabs .nav-tabs > li:hover > a,
+.woocommerce-social a:hover,
+.Project-gallery-thumb figure::before,
+.blog figure::before,
+.event figure::before,
+.news-list figure::before,
+.woocommerce-tabs .nav-tabs > li.active > a:hover
+{
+    background-color: #000000;
+}
+/*
+      ============================================================
+           Default Border Color Start
+      ============================================================
+*/
+blockquote,
+.th-bg.btn1,
+.btn1:hover,
+.btn-2:hover,
+textarea:focus,
+.event-grid:hover,
+input[type="text"]:focus,
+input[type="email"]:focus,
+.simple-gallery-thumb a:hover,
+.widget-social .bs-social li a:hover,
+.reply-form .bs-input textarea:focus, 
+.project-social .bs-social li a:hover,
+.reply-form .bs-input input[type="text"]:focus, 
+.reply-form .bs-input input[type="email"]:focus,
+.contact-text:hover span::before,
+.woocommerce-social a:hover,
+.input-stepper button:hover + input[type="text"]
+{
+    border-color: #141515
+}
+/*
+      ============================================================
+           Default Transition Start
+      ============================================================
+*/
+label,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+input,
+.btn1,
+.blog,
+figure,
+.title,
+.btn-2,
+.tags a,
+.title a,
+textarea,
+.bs-team,
+.event-grid,
+.news-list figure::before,
+.event figure::before,
+.blog figure::before,
+.fileUpload,
+.blog .text,
+.slick-arrow,
+.woo-product,
+.woo-footer a,
+.blog-meta a,
+.brand-thumb,
+.page-numbers,
+.bs-social li,
+.list-style li,
+.bs-social li a,
+.comment-thumb,
+.bs-copyright a,
+.contact-text *,
+.list-style li a,
+.bs-pricing-table,
+.bs-feature-thumb,
+.widget_archive *,
+.bs-team figcaption,
+.slick-arrow::before,
+.widget_categories *,
+.project-counter-thumb,
+.contact-text *::before,
+.bs-team figure::before,
+.simple-gallery-thumb *,
+.Project-gallery-thumb *,
+.simple-gallery-nav li a,
+.project-thumb-2 figure img,
+.dl-menuwrapper li a,
+.input-stepper button,
+.product_meta a, 
+.woocommerce-social a,
+.Project-gallery-thumb figure::before,
+.woocommerce-tabs .nav-tabs li a
+{
+    transition: all .3s ease-in-out
+}
+/*
+      ============================================================
+           Second Background Color Start
+      ============================================================
+*/
+.bs-pricing-table,
+.project-slider-section::before,
+.gray-bg{
+    background-color: #f6f6f6;
+}
+/*
+      ============================================================
+           Social Icons Background Color Start
+      ============================================================
+*/
+.google-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #f0042a;
+}
+.twitter-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #55acee;	
+}
+.linkedin-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #00598e;	
+}
+.facebook-bg{
+	color: #fff !important;
+	border: none !important;
+	background-color: #3b5998;	
+}

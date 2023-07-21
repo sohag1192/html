@@ -1,0 +1,598 @@
+
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1367px) and (max-width: 1680px) {
+}
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (min-width: 1200px) and (max-width: 1366px) {
+}
+/*
+=================================================
+			FROM 992PX TO 1199PX
+=================================================
+*/ 
+@media (min-width: 992px) and (max-width: 1199px) {
+	.contact-link{
+		font-size: 14px;
+	}
+	.banner-bar h2{
+		font-size: 40px;
+	}
+	.banner-bar h5{
+		font-size: 18px;
+	}
+	.banner-bar .th-icon{
+		width: 100px;
+		display: block;
+		margin-left:auto; 
+		margin-right:auto; 
+	}
+	.banner-bar .text {
+	    padding: 26px 0 25px;
+	}
+	.bs-feature-thumb .title{
+		font-size: 16px;
+	}
+	.bs-team figcaption{
+		padding: 0;
+	}
+	.testimonial-slider{
+		padding: 88px 0;
+	}
+	.bs-intro .text{
+		padding: 114px 0;
+	}
+	.project-slider-section::before{
+		bottom: 91px;
+	}
+	.bs-intro p {
+	    margin: 0 0 24px;
+	    max-height: 146px;
+	    overflow: hidden;
+	    float: left;
+	    width: 100%;
+	}
+	.blog-grid .text{
+		padding: 25px;
+	}
+	.blog-grid .title{
+		font-size: 16px;
+	}
+	.woo-product{
+		padding: 25px;
+	}
+	.woo-product .btn1{
+		font-size: 14px;
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+	.woo-footer a{
+		font-size: 11px;
+		margin: 0 0 0 4px; 
+	}
+	.woocommerce-product-description p{
+		float: left;
+		width: 100%;
+		overflow: hidden;
+		max-height: 130px;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 979PX
+=================================================
+*/ 
+@media (max-width: 991px) {
+	.addres-link{
+		display: none;
+	}
+	.navigation{
+		display: none;
+	}
+	.dl-menuwrapper{
+		display: block;
+		padding: 15px 0;
+	}
+	.banner-bar h2{
+		font-size: 30px;
+	}
+	.banner-bar h5{
+		font-size: 16px;
+	}
+	.banner-bar .th-icon{
+		width: 100px;
+		display: block;
+		margin-left:auto; 
+		margin-right:auto; 
+		margin-bottom:-20px; 
+	}
+	.banner-bar .text {
+	    padding: 16px 0 25px;
+	}
+	.bs-intro .text{
+		padding: 50px 0;
+	}
+	.bs-project-thumb p,
+	.bs-project-caption .text p{
+		float: left;
+		width: 100%;
+		max-height: 150px;
+		overflow: hidden;
+	}
+	.bs-project-slider{
+		padding: 40px;
+	}
+	.project-slider-section::before{
+		bottom: 91px;
+	}
+	.testimonial-slider {
+	    padding: 70px 0;
+	}
+	.job-availability-text .main-heading h2{
+		font-size: 28px;
+	}
+	.job-availability-text {
+	    padding: 63px 0;
+	}
+	.thumb-style-1 figure:last-child{
+		width: 60%;
+	}
+	.about-us-intro.bs-intro p {
+	    max-height: 73px;
+	    overflow: hidden;
+	    float: left;
+	    width: 100%;
+	}
+	.counter-thumb {
+	    width: 130px;
+	    height: 130px;
+	    padding: 25px 0 0;
+	}
+	.counter-thumb span{
+		padding: 0 0 13px;
+		font-size: 26px;
+	}
+	.progress-caption{
+		padding: 30px 0;
+	}
+	.about-project-wrap .text p:last-child{
+		display: none;
+	}
+	.blog-list .text p {
+	    float: left;
+	    width: 100%;
+	    max-height: 96px;
+	    overflow: hidden;
+	}
+	.woocommerce.columns-4 [class*="col-md"]{
+		width: 50%;
+	}
+	.woocommerce-product-description p{
+		float: left;
+		width: 100%;
+		overflow: hidden;
+		max-height: 50px;
+	}
+	.woocommerce-cart .btn1{
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+	.comingsoon-page p{
+		font-size: 22px;
+	}
+}
+
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px) {
+	.comingsoon-page h6{
+		font-size: 36px;
+	}
+	.comingsoon-page .countdown-2,
+	.comingsoon-page .text > p{
+		display: none;
+	}
+	.woocommerce-product-description p{
+		max-height: inherit;
+	}
+	.blog-list figure{
+		width: 100%;
+	}
+	.banner-bar h5{
+		display: none;
+	}
+	.banner-bar .th-icon{
+		width: 100px;
+	}
+	.banner-bar .th-icon {
+	    width: 60px;
+	}
+	.banner-bar .text {
+	    padding: 15px 0 15px;
+	}
+	.bs-intro{
+		margin-bottom:50px; 
+	}
+	.bs-intro figure{
+		text-align: center;
+	}
+	.bs-intro figure img{
+		margin:0 auto;
+		float: none; 
+	}
+	.bs-intro .text{
+		padding: 30px 0 0;
+		text-align: center;
+	}
+	.bs-intro h6{
+		font-size: 30px;
+	}
+	.bs-project-caption{
+		padding: 0;
+	}
+	.bs-project-caption{
+		margin-bottom:30px; 
+	}
+	.testimonial-thumb{
+		padding: 0 30px;
+	}
+	.testimonial-thumb figure{
+		margin:0 auto 30px;
+		float: none; 
+	}
+	.testimonial-thumb .overflow-text{
+		padding: 0;
+		text-align: center;
+	}
+	.thumb-style-1 figure:last-child {
+	    right: 0;
+	}
+	.thumb-style-1 {
+	    position: relative;
+	    padding: 0 55px 0 0;
+	    max-width: 481px;
+	    margin: 70px auto 30px;
+	    float: none;
+	    display: block;
+	}
+	.thumb-style-1 figure{
+		float: none;
+		display: block;
+	}
+	.job-availability-text{
+		padding: 0;
+		margin-bottom:30px;
+		text-align: center; 
+	}
+	.job-availability-text .main-heading.text-left{
+		text-align: center; 
+	}
+	.job-availability-text .main-heading span{
+		text-align: center; 
+		padding-right: 0;
+		margin: 0;
+	}
+	.job-availability-text .job-avb-list li{
+		float: none;
+		width: auto;
+	}
+	.job-availability-text .job-avb-list{
+		float: none;
+		width: auto;
+		display: inline-block;
+	}
+	.sub-banner{
+		padding: 70px 0 75px;
+	}
+	.bs-counter li{
+		width: 50%;
+	}
+	.bs-counter li:nth-child(5){
+		display: none;
+	}
+	.bs-input textarea {
+	    min-height: 250px;
+	}
+	.blog .text{
+		margin: 0;
+		width: 100%;
+		padding: 24px 25px 25px;
+	}
+	.blog .title{
+		float: left;
+		width: 100%;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+	.blog2 .text .admin-name{
+		left: inherit
+	}
+	.bs-date{
+		top: 20px;
+		left: 20px;
+	}
+	blockquote p a, blockquote p{
+		font-size: 16px;
+	}
+	.tags_wrap .post-meta{
+		text-align: center;
+	}
+	.comment-heading .title{
+		margin: 0 0 4px;
+	}
+	.comment-heading .comment-date{
+		float: left;
+		width: 100%;
+		margin: 0 0 4px;
+	}
+	.comment-form .children{
+		padding: 0 0 0 50px;
+	}
+	.reply-form {
+	    padding: 62px 50px 40px;
+	}
+	.event .title:first-child{
+		font-size: 20px;
+	    line-height: 30px;
+	}
+	.event .bs-social li:last-child{
+		display: none;
+	}
+	.event .bs-social li a {
+	    width: 30px;
+	    height: 30px;
+	    font-size: 14px;
+	    line-height: 30px;
+	}
+	.event-countdown li {
+	    width: 80px;
+	    height: 80px;
+	    padding: 15px 0 0;
+	}
+	.event-countdown li span {
+	    font-size: 30px;
+	    line-height: 28px;
+	}
+	.event-countdown li p {
+	    font-size: 12px;
+	}
+	.woocommerce.columns-4 [class*="col-md"]{
+		width: 100%;
+	}
+	.woocommerce-tabs .nav-tabs li a{
+		padding: 15px;
+	}
+	.input-stepper input[type="text"]{
+		max-width: 110px;
+	}
+	#items-grid2 li{
+		width: 50%;
+	}
+	.news-list .text{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.news-list .title::before{
+		left: -30px;
+	}
+	.map-wrap #map-canvas{
+		height: 350px;
+	}
+	.error-page .error-text{
+		line-height: 200px;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (min-width: 481px) and (max-width: 694px) {
+	.email-link{
+		display: none;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 480px) {
+	.comingsoon-page h6{
+		font-size: 30px;
+	}
+	.comingsoon-page form{
+		max-width: 280px;
+	}
+	.comingsoon-page form .btn1{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.comingsoon-page .countdown-2{
+		display: none;
+	}
+
+	.error-page .error-text{
+		font-size: 110px;
+		line-height: 110px;
+		margin: 0 0 30px;
+	}
+	.error-page p{
+		margin: 0 0 29px;
+	}
+	.error-page .error-text::before{
+		width: 250px;
+	}
+	.error-page h6{
+		font-size: 22px;
+	}
+	#items-grid2 li{
+		width: 100%;
+	}
+	.logo-wrap{
+		padding: 20px 0;
+	}
+	.header-1 .logo{
+		text-align: center;
+		width: 100%;
+	}
+	.email-link{
+		display: none;
+	}
+	.header-1 .top-contact{
+		width: 100%;
+		text-align: center;
+		padding-bottom: 0; 
+	}
+
+	.header-1 .contact-link{
+		display: inline-block;
+		margin: 0;
+		float: none;
+	}
+	.header-1 .email-link,
+	.header-1 .addres-link{
+		display: none;
+	}
+	.banner-bar h2 {
+	    font-size: 20px;
+	}
+	.banner-bar .th-icon {
+	    width: 40px;
+	    margin-bottom:-10px; 
+	}
+	.main-heading h2{
+		font-size: 24px;
+	}
+	.about-project-wrap .main-heading h2{
+		font-size: 22px;
+	}
+	.bs-feature-thumb .title{
+		font-size: 16px;
+	}
+	.job-availability-text .main-heading h2 {
+		font-size: 24px;
+	}
+	.bs-copyright p{
+		font-size: 14px;
+	}
+	.sub-banner {
+		padding: 50px 0 55px;
+	}
+	.sub-banner .title{
+		font-size: 28px;
+	}
+	.slick-list{
+		margin-right: 0 !important;
+		margin-left: 0 !important;
+	}
+	.masonry li{
+		width: 100%;
+	}
+	.bs-date{
+		top: 15px;
+		left: 15px;
+		width: 55px;
+		height: 55px;
+		padding: 6px 0 0;
+	}
+	.bs-date span{
+		font-size: 16px;
+	}
+	.blog2 .bs-date span:first-child {
+	    margin: 0 0 -7px;
+	}
+	.blog-list .text .title{
+		font-size: 18px;
+	}
+	.comment-thumb{
+		text-align: center;
+	}
+	.comment-thumb figure{
+		float: none;
+		display: block;
+		margin: 0 auto 30px;
+	}
+	.comment-thumb .title,
+	.comment-thumb .overflow-text{
+		width: 100%;
+		float: left;
+	}
+	.comment-thumb .reply-link{
+		float: none;
+		display: inline-block;
+	}
+	.comment-form .children{
+		padding: 0;
+	}
+	.reply-form {
+	    padding: 26px 30px 0px;
+	}
+	.bs-pagination .page-numbers{
+		width: 28px;
+		height: 28px;
+		line-height: 28px;
+	}
+	.event .bs-social{
+		float: left;
+	}
+	.event-countdown li span {
+	    font-size: 20px;
+	    line-height: 18px;
+	}
+	.event-countdown li p {
+	    font-size: 10px;
+	}
+	.event-countdown li {
+	    width: 60px;
+	    height: 60px;
+	    margin: 0 5px;
+	    padding: 14px 0 0;
+	}
+	.blog-meta li {
+    	font-size: 14px;
+	    line-height: 14px;
+	}
+	.founder-thumb .bs-social li{
+		margin-right: 4px;
+	}
+	.woocommerce-tabs .nav-tabs li{
+		width: 100%;
+	}
+	.news-list .title{
+		font-size: 22px;
+	}
+	.news-list .blog-tag a{
+		font-size: 12px;
+	}
+	.map-wrap #map-canvas{
+		height:200px;
+	}
+	
+}
+@media (max-width: 382px) {
+	.event .text .btn1:nth-child(2){
+		float: left;
+	}
+}
